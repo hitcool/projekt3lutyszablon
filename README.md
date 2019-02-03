@@ -1,6 +1,10 @@
 ## Witaj na mojej stronie
 
-zobacz moje projekty: [file:///home/student/Pulpit/projekt3luty/index.html](url)
+* angular
+* ossoossos
+
+
+zobacz moje projekty: [Link](url)
 
 You can use the [editor on GitHub](https://github.com/hitcool/projekt3lutyszablon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
