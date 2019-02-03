@@ -2,7 +2,7 @@
 
 * angular
 * ossoossos
-*fgfgfg
+* fgfgfg
 
 
 zobacz moje projekty: [Link](url)
